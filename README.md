@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Samuel Mastroscianni and I'm a Computer Science student (AI/ML & Robotics) from Belgium !</p>
+<p align="center">I'm a Computer Science student (AI/ML & Robotics)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning DeepLearning and Robotics !<br>🎯 Goals: Create my own company after my study or beacoming Freelance<br>🎲 Fun fact: I have skills in mechanics and electronics as well as in programming</p>
+<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning DeepLearning and Robotics !🎲 Fun fact: I have skills in mechanics and electronics as well as in programming</p>
 
 ###
 
