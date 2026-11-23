@@ -56,48 +56,33 @@ learning:  [Linux internals & DevOps, networking & cloud, deep learning for CV, 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/c/A371F7" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/A371F7" height="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/A371F7" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/A371F7" height="40" alt="Bash" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/go/A371F7" height="40" alt="Go" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/A371F7" height="40" alt="Rust" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Assembly-a371f7?style=flat-square" alt="Assembly" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,go,rust" alt="C, C++, Python, Bash, Go, Rust" />
+  <img src="asm.svg" height="48" alt="Assembly" />
 </p>
 
 <h3 align="center">Robotics & Embedded</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/ros/A371F7" height="40" alt="ROS" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kicad/A371F7" height="40" alt="KiCad" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/arduino/A371F7" height="40" alt="Arduino" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/raspberrypi/A371F7" height="40" alt="Raspberry Pi" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/A371F7" height="40" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,opencv" alt="ROS, Arduino, Raspberry Pi, OpenCV" />
   <br/><br/>
   <img src="https://img.shields.io/badge/PX4-a371f7?style=flat-square" alt="PX4" />
   <img src="https://img.shields.io/badge/ArduPilot-a371f7?style=flat-square" alt="ArduPilot" />
+  <img src="https://img.shields.io/badge/KiCad-a371f7?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
 </p>
 
 <h3 align="center">Systems, Networking & Cloud</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux/A371F7" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/A371F7" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kubernetes/A371F7" height="40" alt="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/A371F7" height="40" alt="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/A371F7" height="40" alt="Google Cloud" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Azure-a371f7?style=flat-square" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,gcp,azure" alt="Linux, Docker, Kubernetes, GitHub Actions, Google Cloud, Azure" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/A371F7" height="40" alt="Git" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/VS%20Code-a371f7?style=flat-square" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Git, VS Code" />
 </p>
 
 ## 📊 GitHub Stats & Trophies
 
+<!-- Si les cartes ne s'affichent pas : déploie ta propre instance de anuraghazra/github-readme-stats sur Vercel
+     et remplace "github-readme-stats.vercel.app" par ton URL Vercel dans les deux lignes ci-dessous. -->
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamutourR115&cache_seconds=7200&show_icons=true&layout=compact&theme=shades-of-purple&border_radius=10" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamutourR115&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
