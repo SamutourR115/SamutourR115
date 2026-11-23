@@ -1,85 +1,113 @@
-<h1 align="center">Hey 👋 What's up my dude ?</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Samuel%20Mastroscianni&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Robotics%20%C2%B7%20Embedded%20AI%20%C2%B7%20From%20the%20PCB%20to%20the%20policy&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-###
+<p align="center">
+  <a href="https://github.com/SamutourR115">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=650&lines=CS+student+%40+ULi%C3%A8ge+%F0%9F%87%A7%F0%9F%87%AA;Student+researcher+in+a+drone+%26+AI+lab+%F0%9F%9A%81;Low-level+lover%3A+C%2C+assembly%2C+bare-metal+%E2%9A%99%EF%B8%8F;Networking+%26+cloud+enthusiast+%F0%9F%8C%90;Next+stop%3A+ETH+Zurich+%F0%9F%87%A8%F0%9F%87%AD" alt="Typing intro" />
+  </a>
+</p>
 
-<p align="center">I'm a Computer Science student (AI/ML & Robotics)</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SamutourR115">
+    <img src="https://komarev.com/ghpvc/?username=SamutourR115&label=Profile%20views&color=a371f7&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-mastroscianni-395b6126b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-a371f7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-a371f7?style=flat-square" alt="Open to research and internships" />
+</p>
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
-<h2 align="left">About me</h2>
+## 🧭 About me
 
-###
+I build autonomous machines across the whole stack, from the circuit board to the decision-making algorithm. I've spent **~15 years teaching myself robotics and embedded systems**: PCB design, bare-metal firmware, PX4, ArduPilot, ROS. I'm a Computer Science student at the **University of Liège** (Intelligent Systems track) and a **student researcher in a drone & AI lab**, working on computer vision for autonomous drones.
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning DeepLearning and Robotics !🎲 Fun fact: I have skills in mechanics and electronics as well as in programming</p>
+I love going **low-level**: writing my own shell, my own firmware in assembly, my own physics engine. I want to understand every layer, right down to the hardware. I'm just as passionate about **networking and cloud infrastructure**, which I practice as SysAdmin/DevOps for a student association.
 
-###
+🎯 **Next goal:** an MSc in Computer Science (Machine Intelligence) at **ETH Zurich**. Along the way, I'm looking for research and internship opportunities in robotics, computer vision and edge AI.
 
-<h2 align="left">I code with</h2>
+## ⚡ Right now
 
-###
+```yaml
+building:  hamilton-physics      # rigid-body engine in modern C++, core of a 6-DOF quadrotor simulator
+research:  autonomous drones     # computer vision, onboard detection & tracking
+devops:    N-HiTec               # SysAdmin: mail server migration, CI/CD pipelines
+learning:  [Linux internals & DevOps, networking & cloud, deep learning for CV, rigid-body dynamics, German]
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
+## 🧠 Focus areas
 
-###
+- 🤖 **AI** — deep learning, computer vision, reinforcement learning
+- 🔌 **Robotics** — electronics, embedded firmware, control, ROS
+- ⚙️ **Low-level & systems** — C, assembly, bare-metal, Unix internals
+- 🌐 **Networking & cloud** — Linux servers, Docker, CI/CD
 
-<h2 align="left">Programming Language</h2>
+## 🛠️ Featured projects
 
-###
+| Project | What it is | Stack |
+|---|---|---|
+| 🌀 **[hamilton-physics](https://github.com/SamutourR115/hamilton-physics)** `🚧 WIP` | Rigid-body physics engine built from first principles — quaternions, integrators, collisions. Dynamics core of a future 6-DOF quadrotor simulator. | C++ |
+| 🦾 **[ExoArm](https://github.com/SamutourR115/ExoArm-Embeded-Project-ULiege)** | Wearable exoskeleton that teleoperates a custom 6-DOF robot arm in real time. IMU + flex sensors, bare-metal assembly firmware, 3D-printed mechanics. | ASM · Embedded · CAD |
+| 🌊 **[Marine Robotics](https://github.com/SamutourR115/marine-robotics-ensta-brest)** | Autonomous boats: heading control, interval analysis, reachability, RL, digital twins. *BEST Fall Course 2026 — ENSTA Brest.* | Python · Control · RL |
+| 🐚 **[MyShell](https://github.com/SamutourR115/MyShell)** | A Unix shell from scratch: parsing, `fork`/`exec`, pipes, redirections, signals. | C · POSIX |
+| 👁️ **[Vision Internship](https://github.com/SamutourR115/First_Vision_Intership)** | Computer-vision work from my first internship. | Python · CV |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+## 🛠️ Languages & Tools
 
-###
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" />
+</p>
 
-<h2 align="left">Stacks</h2>
+<h3 align="center">Robotics & Embedded</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/PX4-a371f7?style=flat-square" alt="PX4" />
+  <img src="https://img.shields.io/badge/ArduPilot-a371f7?style=flat-square" alt="ArduPilot" />
+  <img src="https://img.shields.io/badge/KiCad-a371f7?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Bare--metal%20ASM-a371f7?style=flat-square" alt="Bare-metal assembly" />
+</p>
 
-###
+<h3 align="center">Systems, Networking & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
 
-###
+## 📊 GitHub Stats & Trophies
 
-<h3 align="left">OS use</h3>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamutourR115&cache_seconds=7200&show_icons=true&layout=compact&theme=shades-of-purple&border_radius=10" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamutourR115&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SamutourR115&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=SamutourR115&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-</div>
-
-###
+<p align="center"><sub><i>"What I cannot create, I do not understand." — Richard Feynman</i></sub></p>
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNoMWJlNGt2YzV2aDNjZTZseDZ5NjQxYmxjYjF0MGU0bWZ2N3o0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xwc5c8DCoAF440/giphy.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-###
