@@ -56,48 +56,36 @@ learning:  [Linux internals & DevOps, networking & cloud, deep learning for CV, 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,go,rust" alt="C, C++, Python, Bash, Go, Rust" />
+  <img src="assets/asm.svg" height="48" alt="Assembly" />
 </p>
 
 <h3 align="center">Robotics & Embedded</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />
+  <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,opencv" alt="ROS, Arduino, Raspberry Pi, OpenCV" />
   <br/><br/>
   <img src="https://img.shields.io/badge/PX4-a371f7?style=flat-square" alt="PX4" />
   <img src="https://img.shields.io/badge/ArduPilot-a371f7?style=flat-square" alt="ArduPilot" />
   <img src="https://img.shields.io/badge/KiCad-a371f7?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/Bare--metal%20ASM-a371f7?style=flat-square" alt="Bare-metal assembly" />
 </p>
 
 <h3 align="center">Systems, Networking & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,gcp,azure" alt="Linux, Docker, Kubernetes, GitHub Actions, Google Cloud, Azure" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Git, VS Code" />
 </p>
 
 ## 📊 GitHub Stats & Trophies
 
+<!-- Si les cartes ne s'affichent pas : déploie ta propre instance de anuraghazra/github-readme-stats sur Vercel
+     et remplace "github-readme-stats.vercel.app" par ton URL Vercel dans les deux lignes ci-dessous. -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamutourR115&cache_seconds=7200&show_icons=true&layout=compact&theme=shades-of-purple&border_radius=10" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamutourR115&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamutourR115&cache_seconds=7200&show_icons=true&layout=compact&theme=shades-of-purple&border_radius=10" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamutourR115&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SamutourR115&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
